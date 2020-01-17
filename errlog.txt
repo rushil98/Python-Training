@@ -1,0 +1,1 @@
+2020-01-04 13:04:11.649930		<class 'TypeError'>	can't multiply sequence by non-int of type 'float'
